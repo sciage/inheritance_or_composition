@@ -1,7 +1,7 @@
 Inheritance Or Composition
 ==========================
 
-![](assets/wall_1.jpg) ![](assets/wall_2.jpg) ![](assets/image_note_detail.jpg) ![](assets/tasks_list_note_detail.jpg) ![](assets/create_note.jpg)
+![](assets/wall_1.jpg) ![](assets/wall_2.jpg) ![](assets/image_note_detail.jpg) ![](assets/tasks_list_note_detail.jpg)
 
 ## Goal
 
