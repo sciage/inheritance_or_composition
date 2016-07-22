@@ -7,7 +7,7 @@ Inheritance Or Composition
 
 I have created this repository only with learning purposes and I hope that this source code can helps to the developers to see a different way of think when they will build software.
 
-I'm sure that if you're taking a look to this repository, probably you have got your self opinion or approach about this concept. Please feel-free to share your opinion with the community.
+I'm sure that if you're taking a look to this repository, probably you have got your self opinion or approach about this concept. Please feel-free to share your opinion here with the community.
 
 ## Branches
 
