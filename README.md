@@ -3,7 +3,7 @@ Inheritance Or Composition
 
 ![](assets/app_icon.png)
 
-An conceptual sample of how you can build Android Applications using Inheritance and Composition techniques. This repository is the complement of my talk named "Inheritance or Composition, that is the Question" also you can find the slides of that talk, [https://speakerdeck.com/txusballesteros/inheritance-or-composition](here).
+An conceptual sample of how you can build Android Applications using Inheritance and Composition techniques. This repository is the complement of my talk named "Inheritance or Composition, that is the Question" also you can find the slides of that talk, [here](https://speakerdeck.com/txusballesteros/inheritance-or-composition).
 
 ## Goal of the Repository
 
@@ -21,7 +21,7 @@ The repository has two different branches both with the same functionality of th
 
 ## Acknowledgments
 
-Thanks to [https://twitter.com/SergyCastillo](Sergio Castillo) for tha application icon.
+Thanks to [Sergio Castillo](https://twitter.com/SergyCastillo) for tha application icon.
 
 ## Screenshots
 
