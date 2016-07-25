@@ -9,7 +9,7 @@ An conceptual sample of how you can build Android Applications using Inheritance
 
 I have created this repository only with learning purposes and I hope that this source-code can helps to another developers to see an alternative way to build their Android applications.
 
-I'm sure that if you're taking a look to this repository, probably you have your self opinion or approach about these concept. Please feel-free to share your opinion or comments in the repository or sends your pull request. Will be a pleasure for me, see other opinions or approachs.
+I'm sure that if you're taking a look to this repository, probably you have your self opinion or approach about these concept. Please feel-free to share your opinion or comments in the repository or send your pull request. Will be a pleasure for me, see other opinions or approachs.
 
 ## Branches
 
