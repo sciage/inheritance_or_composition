@@ -17,7 +17,7 @@ The repository has two different branches both with the same functionality of th
 
 * The first one is the branch named [Inheritance & Legacy](https://github.com/txusballesteros/inheritance_or_composition/tree/inheritance_and_legacy), this branch contains the sourcecode with an approach based on inheritance.
 
-* The first second is the branch named [Composition](https://github.com/txusballesteros/inheritance_or_composition/tree/composition), this branch contains the sourcecode with an approach based on composition.
+* The second branch named as [Composition](https://github.com/txusballesteros/inheritance_or_composition/tree/composition), contains the sourcecode with an approach based on composition.
 
 ## Acknowledgments
 
