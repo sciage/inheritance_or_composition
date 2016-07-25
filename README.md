@@ -21,7 +21,7 @@ The repository has two different branches both with the same functionality of th
 
 ## Acknowledgments
 
-Thanks to [Sergio Castillo](https://twitter.com/SergyCastillo) for the application's icon.
+Thanks to [Sergio Castillo](https://twitter.com/SergyCastillo) by the application's icon.
 
 ## Screenshots
 
