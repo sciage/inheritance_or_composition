@@ -1,9 +1,11 @@
 Inheritance Or Composition
 ==========================
 
-![](assets/wall_1.jpg) ![](assets/wall_2.jpg) ![](assets/image_note_detail.jpg) ![](assets/tasks_list_note_detail.jpg)
+![](assets/app_icon.png)
 
-## Goal
+An conceptual sample of how you can build Android Applications using Inheritance and Composition techniques. This repository is the complement of my talk named "Inheritance or Composition, that is the Question" also you can find the slides of that talk, [https://speakerdeck.com/txusballesteros/inheritance-or-composition](here).
+
+## Goal of the Repository
 
 I have created this repository only with learning purposes and I hope that this source code can helps to the developers to see a different way of think when they will build software.
 
@@ -16,6 +18,14 @@ The repository has two different branches both with the same functionality of th
 * The first one is the branch named [Inheritance & Legacy](https://github.com/txusballesteros/inheritance_or_composition/tree/inheritance_and_legacy), this branch contains the sourcecode with an approach based on inheritance.
 
 * The first second is the branch named [Composition](https://github.com/txusballesteros/inheritance_or_composition/tree/composition), this branch contains the sourcecode with an approach based on composition.
+
+## Acknowledgments
+
+Thanks to [https://twitter.com/SergyCastillo](Sergio Castillo) for tha application icon.
+
+## Screenshots
+
+![](assets/wall_1.jpg) ![](assets/wall_2.jpg) ![](assets/image_note_detail.jpg) ![](assets/tasks_list_note_detail.jpg)
 
 ## License
 
